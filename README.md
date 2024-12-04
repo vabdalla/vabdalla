@@ -1,4 +1,4 @@
-<img align="left" height="200" src="https://images.unsplash.com/photo-1666875753105-c63a6f3bdc86?q=80&w=1473&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"  />
+<h1 align="center">hey there 👋</h1>
 
 ###
 
@@ -10,13 +10,11 @@
 
 ###
 
-<h1 align="center">hey there 👋</h1>
+<h3 align="center">👩‍💻  About Me</h3>
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
-
-###
+<br clear="both">
 
 <p align="left">My name is Victor and I'm a Data Analyst / System Analyst / Python Developer from Florianópolis - Brazil<br><br>- 🔭 I'm working as a systems analyst and data analyst at the largest autonomous markets company in Brazil<br>- 📚 I'm currently learning SQL/MongoDB/ Python Libraries<br>- ⚡ In my free time I running marathons</p>
 
